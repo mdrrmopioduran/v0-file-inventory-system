@@ -72,3 +72,6 @@
     "typescript": "^5"
   }
 }
+"scripts": {
+  "dev": "NEXT_USE_NATIVE_TURBO=1 next dev"
+}
