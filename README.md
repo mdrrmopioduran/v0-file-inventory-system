@@ -33,31 +33,29 @@ The MDRRMO Pio Duran File Inventory and Management System is a centralized platf
    - Phone and email contacts
 
 4. **Document Management**
-   - Organized Google Drive folder structure
+    - sidebar navigation (Google Drive folder integration)
    - Document categorization
    - File type indicators (PDF, DOCX, XLSX)
    - Breadcrumb navigation
    - Real-time document browser
 
 5. **Photo Gallery**
+6. - sidebar navigation (Google Drive folder integration)
    - Category-based photo organization
-   - 360° and WEBP image support
+   - panorama and 360° image support for WEBP file
    - Metadata display
-   - Google Drive integration
    - Search and filtering
 
-6. **Maps & Geographic Data**
+7. **Maps & Geographic Data**
    - Interactive Google Maps embed
-   - Multiple map layer types:
-     - Interactive Map (Municipality Overview)
-     - Administrative Map
-     - Topographic Map
-     - Land Use Map
-     - Hazard Zones Map
-     - Tourist Map
-     - Satellite Map
-     - Vectorized Base Map
-     - Purok Boundary Map
+   - Interactive Map (Municipality Overview)
+     - Administrative Map (Google Drive folder structure)
+     - Topographic Map (Google Drive folder structure)
+     - Land Use Map (Google Drive folder structure)
+     - Hazard Map (Google Drive folder structure)
+     - Evacuation Map (Google Drive folder structure)
+     - Satellite Map (Google Drive folder structure)
+     - Other Map (Google Drive folder structure)
    - Collapsible sidebar for layer selection
    - Floating toolbar with measurement tools
 
